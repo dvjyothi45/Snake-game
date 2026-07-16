@@ -1,0 +1,4 @@
+com\example\snakeapp\HomeServlet.class
+com\example\snakeapp\SnakeGameLogic.class
+com\example\snakeapp\SnakeGameLogic$Point.class
+com\example\snakeapp\SnakeGameLogic$Direction.class
